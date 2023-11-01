@@ -14,7 +14,7 @@ preprocessing process in any project typically includes the following steps:
 3. Normalize dataset (Data is bias toward "neutral" label)
 4. Train_valid split (test on real data)
    
-![Processed Data Distribution](Data/Label_distribution.png)
+![Processed Data Distribution](Data/data_distribution.png)
 
 In parallel with the data processing, we conducted Exploratory Data Analysis (EDA) in both the Python programming language and the EDA software, as required by the course curriculum. See more [EDA.py](), [EDA.R](Data/EDA.R)
 
@@ -22,7 +22,9 @@ In parallel with the data processing, we conducted Exploratory Data Analysis (ED
 With real-world data, we recorded and manually labeled approximately 306 samples in English and 306 samples in Vietnamese to test the model's objectivity.
 
 Data source: https://www.kaggle.com/datasets/jamaliasultanajisha/iemocap-full
-Real data source: 
+
+Real data source:
+
 ## [Model]()
 
 ## [Performance Evaluation]()
